@@ -1,2 +1,2 @@
  My Student Portfolio 
-A Simple Project to Learn Git. 
+Goals: Become Devops Expert! 
